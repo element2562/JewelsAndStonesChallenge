@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PuGvCx8aXdGP2Kx8X/Vmb1IjAhNH97HPu6AI6PupkYRVtMmj/l+6lc1aaxm8mZzojxLS6ulYWL829ACOyxLJnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eleme\\source\\repos\\JewelsAndStones\\JewelsAndStones.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eleme\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

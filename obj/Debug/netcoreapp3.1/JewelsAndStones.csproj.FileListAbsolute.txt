@@ -1,0 +1,13 @@
+C:\Users\eleme\source\repos\JewelsAndStones\bin\Debug\netcoreapp3.1\JewelsAndStones.exe
+C:\Users\eleme\source\repos\JewelsAndStones\bin\Debug\netcoreapp3.1\JewelsAndStones.deps.json
+C:\Users\eleme\source\repos\JewelsAndStones\bin\Debug\netcoreapp3.1\JewelsAndStones.runtimeconfig.json
+C:\Users\eleme\source\repos\JewelsAndStones\bin\Debug\netcoreapp3.1\JewelsAndStones.runtimeconfig.dev.json
+C:\Users\eleme\source\repos\JewelsAndStones\bin\Debug\netcoreapp3.1\JewelsAndStones.dll
+C:\Users\eleme\source\repos\JewelsAndStones\bin\Debug\netcoreapp3.1\JewelsAndStones.pdb
+C:\Users\eleme\source\repos\JewelsAndStones\obj\Debug\netcoreapp3.1\JewelsAndStones.csprojAssemblyReference.cache
+C:\Users\eleme\source\repos\JewelsAndStones\obj\Debug\netcoreapp3.1\JewelsAndStones.AssemblyInfoInputs.cache
+C:\Users\eleme\source\repos\JewelsAndStones\obj\Debug\netcoreapp3.1\JewelsAndStones.AssemblyInfo.cs
+C:\Users\eleme\source\repos\JewelsAndStones\obj\Debug\netcoreapp3.1\JewelsAndStones.csproj.CoreCompileInputs.cache
+C:\Users\eleme\source\repos\JewelsAndStones\obj\Debug\netcoreapp3.1\JewelsAndStones.dll
+C:\Users\eleme\source\repos\JewelsAndStones\obj\Debug\netcoreapp3.1\JewelsAndStones.pdb
+C:\Users\eleme\source\repos\JewelsAndStones\obj\Debug\netcoreapp3.1\JewelsAndStones.genruntimeconfig.cache
